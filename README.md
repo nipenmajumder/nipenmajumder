@@ -20,6 +20,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipenmajumder&theme=nord&column=-1&margin-w=10&margin-h=10&no-frame=true" alt="nipenmajumder" /></a> </p>
 
 ###  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nipenmajumder&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nipenmajumder&theme=material-palenight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nipenmajumder&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nipenmajumder&theme=material-palenight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nipenmajumder&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
